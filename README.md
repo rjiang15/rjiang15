@@ -1,4 +1,4 @@
-### Hi there 👋
+### Currently a Harvard undergrad interested in CS and Statistics
 
 <!--
 **rjiang15/rjiang15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
